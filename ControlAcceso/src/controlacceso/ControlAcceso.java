@@ -30,7 +30,7 @@ public class ControlAcceso {
             }
 
         } else {
-            System.out.println("Usuario no encontrado");
+            System.out.println("Usuario no encontrad0");
         }
 
     }//Fin Main
